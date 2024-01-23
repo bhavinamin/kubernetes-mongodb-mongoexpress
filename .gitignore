@@ -1,2 +1,3 @@
 
 secrets/mongodb-secret.yaml
+.DS_Store

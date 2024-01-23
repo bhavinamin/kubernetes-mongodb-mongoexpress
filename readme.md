@@ -20,4 +20,4 @@ D --> E(MongoDB)
 
  ## Security
 - mongo-express runs the default admin:pass credentials
-- Database crews are stored in a secrets file and references as environment variables in the mongo-express deployment 
+- Database creds are stored in a secrets file and references as environment variables in the mongo-express deployment 
